@@ -17,6 +17,10 @@ int main()
     cin >> t;
     cout << "af = ";
     cin >> af;
+    cout << "nf = ";
+    cin >> nf;
+    cout << "nt = ";
+    cin >> nt;
     np = Qp / qp;
     Qp = M / 2 * t;
     Qf = af * Qp;
